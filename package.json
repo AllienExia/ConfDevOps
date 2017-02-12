@@ -10,10 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "forever": "0.14.1",
+    "mocha": "~2.2.4",
+    "xunit-file":"0.0.6"
   },
   "devDependencies": {
-    "mocha": "^3.2.0",
     "should": "^11.2.0",
     "supertest": "^3.0.0"
   }
